@@ -1,0 +1,37 @@
+{
+  "orders": [
+    {
+      "orderId": "SLAO-232483",
+      "voucherId": "SLAO-232483",
+      "date": "24 Nov 2026, 15:06",
+      "firstName": "d",
+      "lastName": "c",
+      "name": "d c",
+      "phone": "993378",
+      "altPhone": "389787",
+      "province": "Gilgit-Baltistan",
+      "city": "ex",
+      "postalCode": "ee",
+      "address": "edc",
+      "payType": "COD",
+      "status": "Packing Pending",
+      "subtotal": 8990,
+      "codCharges": 80,
+      "totalAmount": 9070,
+      "items": [
+        {
+          "id": 3,
+          "name": "Lilac Chiffon Festive Edition",
+          "price": 8990,
+          "image": "https://images.unsplash.com/photo-1563178406-4cdc2923acbc?q=80&w=800&auto=format&fit=crop",
+          "size": "M",
+          "color": "Lilac",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "reviews": [],
+  "likes": [],
+  "complaints": []
+}
